@@ -10,3 +10,5 @@ Contact — Ways to reach me
 ## Technologies Used
 - HTML5
 - CSS3
+## Live Demo 
+https://strong-ganache-efa294.netlify.app/
